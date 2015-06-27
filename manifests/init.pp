@@ -1,5 +1,5 @@
 class notifyme (
-    $message = "This module just notifies the message"
+    $message = "Test #2"
 ){
     notify { $message: }
 }
